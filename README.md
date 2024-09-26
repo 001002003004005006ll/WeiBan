@@ -27,6 +27,10 @@ pip install ddddocr
 
 这部分对应代码
 
+![image](https://github.com/user-attachments/assets/2487ae90-39ba-493a-bbd6-c56269e9983d)
+
+默认是注释掉的
+
 代码是使用的selenium模块外加强制等待，不会自动答题想要答题自己去油猴找一个就可以了，速度肯定没有网络请求那么快，不过是自己没事写着玩的，bug也会有很多，希望大家多提提意见，毕竟这是自己的第一个项目。
 
 使用前先看word文档 如果有其他课程修改下按钮属性就可以刷了
