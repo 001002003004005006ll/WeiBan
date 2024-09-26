@@ -6,11 +6,11 @@ import WeiBan
 
 
 # 输入登录账号
-account = '411525200607192124'
+account = '你的账号'
 # 输入登录密码
-passwd = '192124'
+passwd = '你的密码'
 # 输入学校名称
-school_name = '厦门城市职业学院'
+school_name = '你的学校'
 if __name__ == '__main__':
 	WeiBan.login(account, passwd, school_name)
 	WeiBan.get_student_info()
