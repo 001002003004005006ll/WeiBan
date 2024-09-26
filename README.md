@@ -2,6 +2,10 @@
 
 使用前先看word文档
 
+确保chromedriver.exe 与两个py文件在同一文件下、
+
+使用： python main_weiban.py   (python3环境哦)
+
 微伴自动刷课
 需要安装selenium 、ddddocr
 pip install selenium   //有问题就百度吧
